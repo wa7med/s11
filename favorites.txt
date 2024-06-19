@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Pasta
 Pizza
 Burger
-=======
 Apple
 Banana
 Orang
->>>>>>> movies
